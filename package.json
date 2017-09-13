@@ -1,11 +1,12 @@
 {
-  "name": "usng.js",
+  "name": "usng",
   "description": "AMD compatible script for converting LL, UTM, USNG, and MGRS",
   "licenses": [
 	  {
 		  "type": "MIT"
 	  }
   ],
+  "main": "./usng",
   "homepage": "https://github.com/codice/usng.js",
   "keywords": ["gps", "coordinates", "conversion", "mgrs", "usng", "utm", "latitude", "longitude", "lat/long", "coordinate", "system"],
   "repository": {
